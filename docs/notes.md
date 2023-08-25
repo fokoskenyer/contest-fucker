@@ -1,12 +1,14 @@
-1. open gleam page
-2. register with email
-3. complete easier tasks (open given page and wait a bit)
-4. click the refer friends option
-5. copy link
-6. load new proxy( not sure if needed)
-7. open new browser
-8. open copied link
-9. close browser
-10. repeat
+1. open gleam page --- ***done***
+2. create new full name from database and request new email
+3. complete first task
+4. log out
+5. open new tab
+6. copy link
+7. close previous tab
+8. log in with new email and alias
+9.  repeat
     
 - might have to wait random seconds to avoid detection
+
+
+class="radio ng-binding"
